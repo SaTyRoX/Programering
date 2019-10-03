@@ -1,0 +1,26 @@
+.item1 {grid-area: øverst; }
+.item2 {grid-area: venstre; }
+.item3 {grid-area: højre; }
+
+.grid-container {
+    display: grid;
+    grid-template-areas: 
+    'øverst øverst øverst øverst'
+    'venstre venstre højre højre'
+    'venstre venstre højre højre';
+    grid-gap: 10px;
+    Padding: 10px;
+}
+
+.grid-container > div { 
+    Padding: 20px 0;
+    font-size: 20px;
+}
+
+h1,h3 {
+    text-align: center;
+}
+
+.item2,.item3 {
+    background-color:lightgray;
+}
