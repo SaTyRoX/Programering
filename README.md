@@ -3,5 +3,5 @@ mappe
 ## Ændring
 
 
-- [Opskrift](hjemmeside/Opskrift.html)
+- [Opskrift](opskrift)
 - [mand](mand-p5/index.html)
