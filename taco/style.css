@@ -11,12 +11,3 @@ canvas {
  align-items: center;
 }
 
-#img1{
-  position: absolute;
-  -webkit-animation: spin 4s linear infinite;
-}
-@-webkit-keyframes spin {
-  100%{
-    -webkit-transform: rotate(360deg);
-  }
-}
