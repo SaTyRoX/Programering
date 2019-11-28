@@ -1,20 +1,26 @@
 let img;
+let grader;
+grader = 0;
 
 function preload() {
-  const imgUrl = 'Dino.jpg';
-  img = loadImage('imgUrl');
+  img = loadImage('Dino2.png');
 }
 
 
 function setup() {  
-  
-  createCanvas(400, 400);
-  
-  image(img, 0, 0);
-}
+  imageMode(CENTER);
+  createCanvas(innerWidth, innerHeight);
+ 
+  }
 
 function draw() {
-  noLoop()
-  background(220);
+  background(247);
+
+  grader+=0.05;
+
+  translate(innerWidth/2, innerHeight/2);
+  rotate(grader);
+  image(img, 0, 0, 600, 300);
+  
 }
 
