@@ -1,6 +1,10 @@
 let img;
 let grader;
-grader = 0;
+let speed;
+grader = 0.01;
+speed = 0.01;
+
+let text = '1234';
 
 function preload() {
   img = loadImage('Dino2.png');
@@ -16,11 +20,14 @@ function setup() {
 function draw() {
   background(247);
 
-  grader+=0.05;
+  grader = grader + speed;
 
   translate(innerWidth/2, innerHeight/2);
   rotate(grader);
   image(img, 0, 0, 600, 300);
-  
+}
+
+function keyPressed() {
+  speed = speed + 0.01;
 }
 
