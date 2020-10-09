@@ -1,6 +1,5 @@
 ﻿using System;
 
-namespace ord_tæller
 {
     class Program
     {
