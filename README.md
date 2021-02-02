@@ -12,6 +12,5 @@ mappe
 - [Bunny](Unity/Web-test/)
 
 ----------------------------------------
-Ikke skole
 
 - [Matematik trick](Matematik-trick/)
