@@ -10,3 +10,7 @@ mappe
 - [Asteroids](Asteroids/)
 - [CubeGameUnity](Unity/BrackeysGame/)
 - [Bunny](Unity/Web-test/)
+
+-------------------------------------------------
+
+- [Matematik trick](Matematik-trick/)
