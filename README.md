@@ -11,6 +11,6 @@ mappe
 - [CubeGameUnity](Unity/BrackeysGame/)
 - [Bunny](Unity/Web-test/)
 
--------------------------------------------------
+---------- IKKE SKOLE ----------
 
 - [Matematik trick](Matematik-trick/)
