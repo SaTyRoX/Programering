@@ -9,7 +9,7 @@ mappe
 - [Dinosaur](Dino/)
 - [Asteroids](Asteroids/)
 - [CubeGameUnity](Unity/BrackeysGame/)
-- [Bunny](Unity/Web-Færdig/)
+- [Bunny](Unity/BunnyGame/)
 
 ----------------------------------------
 
