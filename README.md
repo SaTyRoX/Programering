@@ -9,8 +9,8 @@ mappe
 - [Dinosaur](Dino/)
 - [Asteroids](Asteroids/)
 - [CubeGameUnity](Unity/BrackeysGame/)
-- [Bunny](Unity/Web-test/)
+- [Bunny](Unity/Web-Færdig/)
 
 -------------------------------------------------
 
-- [Matematik trick](Matematik-trick/)
+- [Matematik trick](Matematik-trick)
